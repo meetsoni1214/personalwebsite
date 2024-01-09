@@ -36,7 +36,7 @@ object Res {
         const val NAME = "Meet Soni"
         const val PROFESSION = "Android Developer"
         const val ABOUT_ME =
-            "Lorem ipsum dolor sit amet, nisl tempus lorem adipiscing elit. Donec sollicitudin blandit tellus, ac sagittis ligula egestas consequat. Lorem ipsum dolor sit amet."
+            "Android Developer and Kotlin Multiplatform learner. An Avid digital marketer and SEO enthusiast on the journey to entrepreneurship, currently building Findbestforyou! Outside the tech realm, find me immersed in books, movies, and exploring the world with friends."
         const val BUTTON_TEXT = "Get in touch"
         const val ROBOTO_CONDENSED = "RobotoCondensedBold"
         const val ROBOTO_REGULAR = "RobotoRegular"
